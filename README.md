@@ -59,8 +59,8 @@ project/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/nids-flask-api.git
-cd nids-flask-api
+git clone https://github.com/Abhilash-11/cybersec_ml.git
+cd cybersec_ml
 ```
 
 ### 2. Create a virtual environment and install dependencies
